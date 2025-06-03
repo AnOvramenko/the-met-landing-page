@@ -1,4 +1,4 @@
-# The MET Landing Page (Old)
+# The MET Landing Page (Old version)
 
 A portfolio project recreating the landing page for The Metropolitan Museum of Art (The MET). This project demonstrates responsive web design, modern HTML/CSS practices, and clean UI/UX principles.
 
@@ -35,11 +35,3 @@ A portfolio project recreating the landing page for The Metropolitan Museum of A
 - CSS3
 - Sass(SCSS)
 - BEM
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-Inspired by [The MET](https://www.metmuseum.org/).
